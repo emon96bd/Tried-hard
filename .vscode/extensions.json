@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "github.copilot",
+    "snyk-security.snyk-vulnerability-scanner",
+    "ecmel.vscode-html-css"
+  ]
+}
